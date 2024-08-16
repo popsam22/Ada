@@ -1,11 +1,11 @@
 export default function App() {
   return (
-    <div className="m-10 p-6 bg-gradient-to-br from-pink-100 to-purple-100 rounded-lg shadow-2xl">
-      <h1 className="text-4xl font-mono text-center text-purple-700 mb-6">
+    <div className="m-4 sm:m-10 p-4 sm:p-6 bg-gradient-to-br from-pink-100 to-purple-100 rounded-lg shadow-2xl">
+      <h1 className="text-2xl sm:text-4xl font-mono text-center text-purple-700 mb-4 sm:mb-6">
         Digital Notes You Said 😌
       </h1>
       <div className="text-center">
-        <p className="font-mono text-lg text-gray-800 mb-6">
+        <p className="font-mono text-base sm:text-lg text-gray-800 mb-4 sm:mb-6">
           I apologize in advance, I'm no story writer, so forgive me for the
           scanty nature of the letter. I just wrote it as things came to my
           head.
@@ -100,7 +100,7 @@ export default function App() {
           things will get better as long as you work towards them.
         </p>
       </div>
-      <footer className="bg-red-500 py-4">
+      <footer className="bg-red-500 py-4 mt-8">
         <div className="text-center">
           <p className="text-white text-sm font-mono">
             Made with 💙 from Popsam
