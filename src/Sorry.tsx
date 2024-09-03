@@ -1,6 +1,6 @@
 export default function Sorry() {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-pink-100 to-purple-100">
+    <div className="flex items-center justify-center min-h-screen bg-blue-400">
       <div className="m-4 sm:m-10 p-6 sm:p-8 bg-white rounded-xl shadow-2xl max-w-2xl">
         <h1 className="text-3xl sm:text-4xl font-mono text-center text-purple-700 mb-6 sm:mb-8 leading-tight">
           On Today's Episode of Luxethreads and Her Big Head
